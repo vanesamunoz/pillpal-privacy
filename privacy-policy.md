@@ -179,19 +179,6 @@ Under the General Data Protection Regulation (GDPR), EU residents have specific 
 
 GDPR data controller obligations do not apply in the traditional sense. You are in full control of your data at all times.
 
----
-
-## Contact Us
-
-If you have questions about this privacy policy or PillPal's privacy practices:
-
-**Email**: [Your email address here]  
-**Website**: [Your website here]
-
-We will respond to privacy inquiries within 30 days.
-
----
-
 ## Summary
 
 **PillPal's Privacy Promise:**
